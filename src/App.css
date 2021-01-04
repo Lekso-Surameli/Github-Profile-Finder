@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'BPG Nino Mtavruli';
+}
+@font-face {
+    font-family: 'BPG Nino Mtavruli';
+    src: url(../src/fonts/bpg_nino_mtavruli_normal.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BPG Nino Mtavruli Bold';
+    src: url(../src/fonts/bpg_nino_mtavruli_bold.ttf);
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.alert{
+  background-color: #d9534f;
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 0 solid transparent;
+  border-radius: .25rem;
+  border-color: #f4cfce;
+  color: #fff;
+  font-size: .9rem;
+}
