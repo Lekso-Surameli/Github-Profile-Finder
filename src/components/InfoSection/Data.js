@@ -10,7 +10,7 @@ export const HomeObjOne = {
     buttonLabel: 'View the Source',
     imgStart: false,
     img: require('../../images/svg-4.svg').default,
-    link: 'https://simonsmith.github.io/github-user-search/#/search',
+    link: 'https://github.com/Lekso-Surameli/Github-Profile-Finder',
     alt: 'Car',
     dark: true,
     primary: true,
